@@ -4,7 +4,7 @@ A project using `Express` and `React` for `FullStack NodeJS` project
 
 ### Pre-reqs
 
-- nodejs `npm`(https://nodejs.org/)
+- nodejs `npm`[NodeJS](https://nodejs.org/)
 - [Express](https://expressjs.com/)
 - [React](https://reactjs.org/)
 - [Create React App`](https://github.com/facebook/create-react-app)
@@ -31,6 +31,7 @@ A project using `Express` and `React` for `FullStack NodeJS` project
 - `npm client-install`
 - `npm run dev`
 - Server will be running on [`http://localhost:5000`](http://localhost:5000)
+- Client will be running on [`http://localhost:3000`](http://localhost:3000)
 
 #### Distribution
 
@@ -41,3 +42,6 @@ A project using `Express` and `React` for `FullStack NodeJS` project
 - [typescript-mongodb](https://tutorialedge.net/typescript/typescript-mongodb-beginners-tutorial/)
 - [Sample Books Data](https://gist.github.com/nanotaboada/6396437)
 - [MongoDb local client](https://robomongo.org/)
+- [React Admin Demo](https://marmelab.com/react-admin-demo/#/)
+- [React-Admin Docs](https://marmelab.com/react-admin/)
+- [React-Admin Repo](https://github.com/marmelab/react-admin)
